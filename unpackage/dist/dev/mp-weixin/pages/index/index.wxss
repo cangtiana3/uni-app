@@ -1,0 +1,15 @@
+
+.context.data-v-57280228{
+	margin: 0 15rpx;
+}
+.top.data-v-57280228{
+	position: fixed;
+	left: 0;
+	right: 0;
+	top: 0;
+}
+.aa.data-v-57280228{
+	height: 2000rpx;
+	background: red;
+}
+
